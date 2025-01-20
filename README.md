@@ -1,4 +1,4 @@
-# *Tips install & Run Script
+# *Tips install & Run Script*
 ```bash
 pip install requests
 pip install python
